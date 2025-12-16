@@ -1,11 +1,11 @@
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://agentic-ai-vehicle-health-smudwjn8cscrewedfvq.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://agentic-ai-vehicle-health-smudwjyn8cscrewedfvqma.streamlit.app/)
 
 
 # 🚗 Agentic AI – Vehicle Health Dashboard
 
 Predictive maintenance system using **Multi-Agent AI** to analyze vehicle telemetry data and detect failures in advance.
 
-🚀 Live Demo: https://agentic-ai-vehicle-health-smudwjn8cscrewedfvq.streamlit.app
+🚀 Live Demo: https://agentic-ai-vehicle-health-smudwjyn8cscrewedfvqma.streamlit.app/
 
 ## Features
 - Multi-agent AI diagnosis system
